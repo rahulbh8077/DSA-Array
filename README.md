@@ -67,6 +67,7 @@ For further you can take help from the  uploaded Code vault.
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/rahulbh8077/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/rahulbh8077/DSA/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/rahulbh8077/DSA/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/rahulbh8077/DSA/tree/master/0037-sudoku-solver) |
 | [0179-largest-number](https://github.com/rahulbh8077/DSA/tree/master/0179-largest-number) |
 ## Hash Table
 |  |
@@ -74,6 +75,7 @@ For further you can take help from the  uploaded Code vault.
 | [0001-two-sum](https://github.com/rahulbh8077/DSA_Array/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/rahulbh8077/DSA/tree/master/0012-integer-to-roman) |
 | [0036-valid-sudoku](https://github.com/rahulbh8077/DSA/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/rahulbh8077/DSA/tree/master/0037-sudoku-solver) |
 ## Math
 |  |
 | ------- |
@@ -125,4 +127,17 @@ For further you can take help from the  uploaded Code vault.
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/rahulbh8077/DSA/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/rahulbh8077/DSA/tree/master/0037-sudoku-solver) |
+## Backtracking
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/rahulbh8077/DSA/tree/master/0037-sudoku-solver) |
+## Algorithm X
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/rahulbh8077/DSA/tree/master/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/rahulbh8077/DSA/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
