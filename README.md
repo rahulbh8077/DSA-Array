@@ -69,6 +69,7 @@ For further you can take help from the  uploaded Code vault.
 | [0036-valid-sudoku](https://github.com/rahulbh8077/DSA/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/rahulbh8077/DSA/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/rahulbh8077/DSA/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/rahulbh8077/DSA/tree/master/0040-combination-sum-ii) |
 | [0179-largest-number](https://github.com/rahulbh8077/DSA/tree/master/0179-largest-number) |
 ## Hash Table
 |  |
@@ -134,6 +135,7 @@ For further you can take help from the  uploaded Code vault.
 | ------- |
 | [0037-sudoku-solver](https://github.com/rahulbh8077/DSA/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/rahulbh8077/DSA/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/rahulbh8077/DSA/tree/master/0040-combination-sum-ii) |
 ## Algorithm X
 |  |
 | ------- |
