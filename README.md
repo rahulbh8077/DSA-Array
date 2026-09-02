@@ -70,6 +70,7 @@ For further you can take help from the  uploaded Code vault.
 | [0037-sudoku-solver](https://github.com/rahulbh8077/DSA/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/rahulbh8077/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/rahulbh8077/DSA/tree/master/0040-combination-sum-ii) |
+| [0045-jump-game-ii](https://github.com/rahulbh8077/DSA/tree/master/0045-jump-game-ii) |
 | [0179-largest-number](https://github.com/rahulbh8077/DSA/tree/master/0179-largest-number) |
 ## Hash Table
 |  |
@@ -108,6 +109,7 @@ For further you can take help from the  uploaded Code vault.
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/rahulbh8077/DSA/tree/master/0045-jump-game-ii) |
 | [0179-largest-number](https://github.com/rahulbh8077/DSA/tree/master/0179-largest-number) |
 ## Sorting
 |  |
@@ -144,4 +146,8 @@ For further you can take help from the  uploaded Code vault.
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/rahulbh8077/DSA/tree/master/0037-sudoku-solver) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0045-jump-game-ii](https://github.com/rahulbh8077/DSA/tree/master/0045-jump-game-ii) |
 <!---LeetCode Topics End-->
