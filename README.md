@@ -76,6 +76,7 @@ For further you can take help from the  uploaded Code vault.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rahulbh8077/DSA_Array/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/rahulbh8077/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/rahulbh8077/DSA/tree/master/0012-integer-to-roman) |
 | [0036-valid-sudoku](https://github.com/rahulbh8077/DSA/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/rahulbh8077/DSA/tree/master/0037-sudoku-solver) |
@@ -87,6 +88,7 @@ For further you can take help from the  uploaded Code vault.
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/rahulbh8077/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/rahulbh8077/DSA/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/rahulbh8077/DSA/tree/master/0014-longest-common-prefix) |
 | [0179-largest-number](https://github.com/rahulbh8077/DSA/tree/master/0179-largest-number) |
@@ -150,4 +152,8 @@ For further you can take help from the  uploaded Code vault.
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/rahulbh8077/DSA/tree/master/0045-jump-game-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/rahulbh8077/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
