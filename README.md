@@ -89,12 +89,14 @@ For further you can take help from the  uploaded Code vault.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rahulbh8077/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/rahulbh8077/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/rahulbh8077/DSA/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/rahulbh8077/DSA/tree/master/0014-longest-common-prefix) |
 | [0179-largest-number](https://github.com/rahulbh8077/DSA/tree/master/0179-largest-number) |
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/rahulbh8077/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0016-3sum-closest](https://github.com/rahulbh8077/DSA/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/rahulbh8077/DSA/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rahulbh8077/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -151,9 +153,14 @@ For further you can take help from the  uploaded Code vault.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/rahulbh8077/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0045-jump-game-ii](https://github.com/rahulbh8077/DSA/tree/master/0045-jump-game-ii) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rahulbh8077/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/rahulbh8077/DSA/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
