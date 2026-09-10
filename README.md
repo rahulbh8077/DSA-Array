@@ -92,6 +92,7 @@ For further you can take help from the  uploaded Code vault.
 | [0005-longest-palindromic-substring](https://github.com/rahulbh8077/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/rahulbh8077/DSA/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/rahulbh8077/DSA/tree/master/0008-string-to-integer-atoi) |
+| [0010-regular-expression-matching](https://github.com/rahulbh8077/DSA/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/rahulbh8077/DSA/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/rahulbh8077/DSA/tree/master/0014-longest-common-prefix) |
 | [0179-largest-number](https://github.com/rahulbh8077/DSA/tree/master/0179-largest-number) |
@@ -112,6 +113,7 @@ For further you can take help from the  uploaded Code vault.
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/rahulbh8077/DSA/tree/master/0002-add-two-numbers) |
+| [0010-regular-expression-matching](https://github.com/rahulbh8077/DSA/tree/master/0010-regular-expression-matching) |
 ## Greedy
 |  |
 | ------- |
@@ -156,6 +158,7 @@ For further you can take help from the  uploaded Code vault.
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/rahulbh8077/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/rahulbh8077/DSA/tree/master/0010-regular-expression-matching) |
 | [0045-jump-game-ii](https://github.com/rahulbh8077/DSA/tree/master/0045-jump-game-ii) |
 ## Sliding Window
 |  |
