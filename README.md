@@ -52,7 +52,7 @@ For further you can take help from the  uploaded Code vault.
 
 
 <!---LeetCode Topics Start-->
-# LeetCode Topics
+# LeetCode Topics-
 ## Array
 |  |
 | ------- |
