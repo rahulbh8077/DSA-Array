@@ -73,6 +73,7 @@ For further you can take help from the  uploaded Code vault.
 | [0045-jump-game-ii](https://github.com/rahulbh8077/DSA/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/rahulbh8077/DSA/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/rahulbh8077/DSA/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/rahulbh8077/DSA/tree/master/0048-rotate-image) |
 | [0179-largest-number](https://github.com/rahulbh8077/DSA/tree/master/0179-largest-number) |
 ## Hash Table
 |  |
@@ -89,6 +90,7 @@ For further you can take help from the  uploaded Code vault.
 | [0002-add-two-numbers](https://github.com/rahulbh8077/DSA/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/rahulbh8077/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/rahulbh8077/DSA/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/rahulbh8077/DSA/tree/master/0048-rotate-image) |
 ## String
 |  |
 | ------- |
@@ -146,6 +148,7 @@ For further you can take help from the  uploaded Code vault.
 | ------- |
 | [0036-valid-sudoku](https://github.com/rahulbh8077/DSA/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/rahulbh8077/DSA/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/rahulbh8077/DSA/tree/master/0048-rotate-image) |
 ## Backtracking
 |  |
 | ------- |
