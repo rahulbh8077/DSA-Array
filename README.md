@@ -77,6 +77,7 @@ For further you can take help from the  uploaded Code vault.
 | [0049-group-anagrams](https://github.com/rahulbh8077/DSA/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/rahulbh8077/DSA/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/rahulbh8077/DSA-Array/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/rahulbh8077/DSA-Array/tree/master/0055-jump-game) |
 | [0179-largest-number](https://github.com/rahulbh8077/DSA/tree/master/0179-largest-number) |
 ## Hash Table
 |  |
@@ -135,6 +136,7 @@ For further you can take help from the  uploaded Code vault.
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/rahulbh8077/DSA/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/rahulbh8077/DSA-Array/tree/master/0055-jump-game) |
 | [0179-largest-number](https://github.com/rahulbh8077/DSA/tree/master/0179-largest-number) |
 ## Sorting
 |  |
@@ -188,6 +190,7 @@ For further you can take help from the  uploaded Code vault.
 | [0010-regular-expression-matching](https://github.com/rahulbh8077/DSA/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/rahulbh8077/DSA-Array/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/rahulbh8077/DSA/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/rahulbh8077/DSA-Array/tree/master/0055-jump-game) |
 ## Sliding Window
 |  |
 | ------- |
