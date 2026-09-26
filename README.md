@@ -76,6 +76,7 @@ For further you can take help from the  uploaded Code vault.
 | [0048-rotate-image](https://github.com/rahulbh8077/DSA/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/rahulbh8077/DSA/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/rahulbh8077/DSA/tree/master/0051-n-queens) |
+| [0054-spiral-matrix](https://github.com/rahulbh8077/DSA-Array/tree/master/0054-spiral-matrix) |
 | [0179-largest-number](https://github.com/rahulbh8077/DSA/tree/master/0179-largest-number) |
 ## Hash Table
 |  |
@@ -159,6 +160,7 @@ For further you can take help from the  uploaded Code vault.
 | [0036-valid-sudoku](https://github.com/rahulbh8077/DSA/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/rahulbh8077/DSA/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/rahulbh8077/DSA/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/rahulbh8077/DSA-Array/tree/master/0054-spiral-matrix) |
 ## Backtracking
 |  |
 | ------- |
@@ -198,4 +200,8 @@ For further you can take help from the  uploaded Code vault.
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/rahulbh8077/DSA-Array/tree/master/0022-generate-parentheses) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/rahulbh8077/DSA-Array/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
