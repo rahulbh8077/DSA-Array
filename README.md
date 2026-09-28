@@ -79,6 +79,7 @@ For further you can take help from the  uploaded Code vault.
 | [0054-spiral-matrix](https://github.com/rahulbh8077/DSA-Array/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/rahulbh8077/DSA-Array/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/rahulbh8077/DSA-Array/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/rahulbh8077/DSA-Array/tree/master/0057-insert-interval) |
 | [0179-largest-number](https://github.com/rahulbh8077/DSA/tree/master/0179-largest-number) |
 ## Hash Table
 |  |
