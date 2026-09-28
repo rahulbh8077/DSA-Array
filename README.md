@@ -78,6 +78,7 @@ For further you can take help from the  uploaded Code vault.
 | [0051-n-queens](https://github.com/rahulbh8077/DSA/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/rahulbh8077/DSA-Array/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/rahulbh8077/DSA-Array/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/rahulbh8077/DSA-Array/tree/master/0056-merge-intervals) |
 | [0179-largest-number](https://github.com/rahulbh8077/DSA/tree/master/0179-largest-number) |
 ## Hash Table
 |  |
@@ -145,6 +146,7 @@ For further you can take help from the  uploaded Code vault.
 | [0018-4sum](https://github.com/rahulbh8077/DSA/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/rahulbh8077/DSA/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/rahulbh8077/DSA/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/rahulbh8077/DSA-Array/tree/master/0056-merge-intervals) |
 | [0179-largest-number](https://github.com/rahulbh8077/DSA/tree/master/0179-largest-number) |
 ## Trie
 |  |
@@ -207,4 +209,8 @@ For further you can take help from the  uploaded Code vault.
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/rahulbh8077/DSA-Array/tree/master/0054-spiral-matrix) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/rahulbh8077/DSA-Array/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
