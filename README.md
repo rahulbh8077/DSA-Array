@@ -81,6 +81,7 @@ For further you can take help from the  uploaded Code vault.
 | [0056-merge-intervals](https://github.com/rahulbh8077/DSA-Array/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/rahulbh8077/DSA-Array/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/rahulbh8077/DSA-Array/tree/master/0059-spiral-matrix-ii) |
+| [0063-unique-paths-ii](https://github.com/rahulbh8077/DSA-Array/tree/master/0063-unique-paths-ii) |
 | [0179-largest-number](https://github.com/rahulbh8077/DSA/tree/master/0179-largest-number) |
 ## Hash Table
 |  |
@@ -168,6 +169,7 @@ For further you can take help from the  uploaded Code vault.
 | [0048-rotate-image](https://github.com/rahulbh8077/DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/rahulbh8077/DSA-Array/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/rahulbh8077/DSA-Array/tree/master/0059-spiral-matrix-ii) |
+| [0063-unique-paths-ii](https://github.com/rahulbh8077/DSA-Array/tree/master/0063-unique-paths-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -196,6 +198,7 @@ For further you can take help from the  uploaded Code vault.
 | [0022-generate-parentheses](https://github.com/rahulbh8077/DSA-Array/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/rahulbh8077/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/rahulbh8077/DSA-Array/tree/master/0055-jump-game) |
+| [0063-unique-paths-ii](https://github.com/rahulbh8077/DSA-Array/tree/master/0063-unique-paths-ii) |
 ## Sliding Window
 |  |
 | ------- |
