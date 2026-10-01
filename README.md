@@ -84,6 +84,7 @@ For further you can take help from the  uploaded Code vault.
 | [0063-unique-paths-ii](https://github.com/rahulbh8077/DSA-Array/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/rahulbh8077/DSA-Array/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/rahulbh8077/DSA-Array/tree/master/0066-plus-one) |
+| [0068-text-justification](https://github.com/rahulbh8077/DSA-Array/tree/master/0068-text-justification) |
 | [0179-largest-number](https://github.com/rahulbh8077/DSA/tree/master/0179-largest-number) |
 ## Hash Table
 |  |
@@ -118,6 +119,7 @@ For further you can take help from the  uploaded Code vault.
 | [0017-letter-combinations-of-a-phone-number](https://github.com/rahulbh8077/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/rahulbh8077/DSA-Array/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/rahulbh8077/DSA/tree/master/0049-group-anagrams) |
+| [0068-text-justification](https://github.com/rahulbh8077/DSA-Array/tree/master/0068-text-justification) |
 | [0179-largest-number](https://github.com/rahulbh8077/DSA/tree/master/0179-largest-number) |
 ## Two Pointers
 |  |
@@ -221,6 +223,7 @@ For further you can take help from the  uploaded Code vault.
 | ------- |
 | [0054-spiral-matrix](https://github.com/rahulbh8077/DSA-Array/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/rahulbh8077/DSA-Array/tree/master/0059-spiral-matrix-ii) |
+| [0068-text-justification](https://github.com/rahulbh8077/DSA-Array/tree/master/0068-text-justification) |
 ## Quicksort
 |  |
 | ------- |
