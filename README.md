@@ -85,6 +85,7 @@ For further you can take help from the  uploaded Code vault.
 | [0064-minimum-path-sum](https://github.com/rahulbh8077/DSA-Array/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/rahulbh8077/DSA-Array/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/rahulbh8077/DSA-Array/tree/master/0068-text-justification) |
+| [0073-set-matrix-zeroes](https://github.com/rahulbh8077/DSA-Array/tree/master/0073-set-matrix-zeroes) |
 | [0179-largest-number](https://github.com/rahulbh8077/DSA/tree/master/0179-largest-number) |
 ## Hash Table
 |  |
@@ -97,6 +98,7 @@ For further you can take help from the  uploaded Code vault.
 | [0036-valid-sudoku](https://github.com/rahulbh8077/DSA/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/rahulbh8077/DSA/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/rahulbh8077/DSA/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/rahulbh8077/DSA-Array/tree/master/0073-set-matrix-zeroes) |
 ## Math
 |  |
 | ------- |
@@ -176,6 +178,7 @@ For further you can take help from the  uploaded Code vault.
 | [0059-spiral-matrix-ii](https://github.com/rahulbh8077/DSA-Array/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/rahulbh8077/DSA-Array/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/rahulbh8077/DSA-Array/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/rahulbh8077/DSA-Array/tree/master/0073-set-matrix-zeroes) |
 ## Backtracking
 |  |
 | ------- |
