@@ -144,6 +144,7 @@ For further you can take help from the  uploaded Code vault.
 | ------- |
 | [0002-add-two-numbers](https://github.com/rahulbh8077/DSA/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/rahulbh8077/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0023-merge-k-sorted-lists](https://github.com/rahulbh8077/DSA-Array/tree/master/0023-merge-k-sorted-lists) |
 ## Recursion
 |  |
 | ------- |
@@ -256,4 +257,20 @@ For further you can take help from the  uploaded Code vault.
 |  |
 | ------- |
 | [0079-word-search](https://github.com/rahulbh8077/DSA-Array/tree/master/0079-word-search) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/rahulbh8077/DSA-Array/tree/master/0023-merge-k-sorted-lists) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/rahulbh8077/DSA-Array/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/rahulbh8077/DSA-Array/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/rahulbh8077/DSA-Array/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
