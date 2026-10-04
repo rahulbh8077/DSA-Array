@@ -145,11 +145,13 @@ For further you can take help from the  uploaded Code vault.
 | [0002-add-two-numbers](https://github.com/rahulbh8077/DSA/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/rahulbh8077/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0023-merge-k-sorted-lists](https://github.com/rahulbh8077/DSA-Array/tree/master/0023-merge-k-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/rahulbh8077/DSA-Array/tree/master/0024-swap-nodes-in-pairs) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/rahulbh8077/DSA/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/rahulbh8077/DSA/tree/master/0010-regular-expression-matching) |
+| [0024-swap-nodes-in-pairs](https://github.com/rahulbh8077/DSA-Array/tree/master/0024-swap-nodes-in-pairs) |
 ## Greedy
 |  |
 | ------- |
