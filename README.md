@@ -91,6 +91,7 @@ For further you can take help from the  uploaded Code vault.
 | [0078-subsets](https://github.com/rahulbh8077/DSA-Array/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/rahulbh8077/DSA-Array/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/rahulbh8077/DSA-Array/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0084-largest-rectangle-in-histogram](https://github.com/rahulbh8077/DSA-Array/tree/master/0084-largest-rectangle-in-histogram) |
 | [0179-largest-number](https://github.com/rahulbh8077/DSA/tree/master/0179-largest-number) |
 ## Hash Table
 |  |
@@ -277,4 +278,16 @@ For further you can take help from the  uploaded Code vault.
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/rahulbh8077/DSA-Array/tree/master/0023-merge-k-sorted-lists) |
+## Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/rahulbh8077/DSA-Array/tree/master/0084-largest-rectangle-in-histogram) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/rahulbh8077/DSA-Array/tree/master/0084-largest-rectangle-in-histogram) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/rahulbh8077/DSA-Array/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
