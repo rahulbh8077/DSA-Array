@@ -90,6 +90,7 @@ For further you can take help from the  uploaded Code vault.
 | [0075-sort-colors](https://github.com/rahulbh8077/DSA-Array/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/rahulbh8077/DSA-Array/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/rahulbh8077/DSA-Array/tree/master/0079-word-search) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/rahulbh8077/DSA-Array/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0179-largest-number](https://github.com/rahulbh8077/DSA/tree/master/0179-largest-number) |
 ## Hash Table
 |  |
@@ -139,6 +140,7 @@ For further you can take help from the  uploaded Code vault.
 | [0027-remove-element](https://github.com/rahulbh8077/DSA/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/rahulbh8077/DSA/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/rahulbh8077/DSA-Array/tree/master/0075-sort-colors) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/rahulbh8077/DSA-Array/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 ## Linked List
 |  |
 | ------- |
