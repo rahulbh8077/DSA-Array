@@ -92,6 +92,7 @@ For further you can take help from the  uploaded Code vault.
 | [0079-word-search](https://github.com/rahulbh8077/DSA-Array/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/rahulbh8077/DSA-Array/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/rahulbh8077/DSA-Array/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/rahulbh8077/DSA-Array/tree/master/0085-maximal-rectangle) |
 | [0179-largest-number](https://github.com/rahulbh8077/DSA/tree/master/0179-largest-number) |
 ## Hash Table
 |  |
@@ -195,6 +196,7 @@ For further you can take help from the  uploaded Code vault.
 | [0073-set-matrix-zeroes](https://github.com/rahulbh8077/DSA-Array/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/rahulbh8077/DSA-Array/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/rahulbh8077/DSA-Array/tree/master/0079-word-search) |
+| [0085-maximal-rectangle](https://github.com/rahulbh8077/DSA-Array/tree/master/0085-maximal-rectangle) |
 ## Backtracking
 |  |
 | ------- |
@@ -227,6 +229,7 @@ For further you can take help from the  uploaded Code vault.
 | [0055-jump-game](https://github.com/rahulbh8077/DSA-Array/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/rahulbh8077/DSA-Array/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/rahulbh8077/DSA-Array/tree/master/0064-minimum-path-sum) |
+| [0085-maximal-rectangle](https://github.com/rahulbh8077/DSA-Array/tree/master/0085-maximal-rectangle) |
 ## Sliding Window
 |  |
 | ------- |
@@ -282,10 +285,12 @@ For further you can take help from the  uploaded Code vault.
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/rahulbh8077/DSA-Array/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/rahulbh8077/DSA-Array/tree/master/0085-maximal-rectangle) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/rahulbh8077/DSA-Array/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/rahulbh8077/DSA-Array/tree/master/0085-maximal-rectangle) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
