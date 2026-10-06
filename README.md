@@ -93,6 +93,7 @@ For further you can take help from the  uploaded Code vault.
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/rahulbh8077/DSA-Array/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/rahulbh8077/DSA-Array/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/rahulbh8077/DSA-Array/tree/master/0085-maximal-rectangle) |
+| [0088-merge-sorted-array](https://github.com/rahulbh8077/DSA-Array/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/rahulbh8077/DSA/tree/master/0179-largest-number) |
 ## Hash Table
 |  |
@@ -143,6 +144,7 @@ For further you can take help from the  uploaded Code vault.
 | [0031-next-permutation](https://github.com/rahulbh8077/DSA/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/rahulbh8077/DSA-Array/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/rahulbh8077/DSA-Array/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/rahulbh8077/DSA-Array/tree/master/0088-merge-sorted-array) |
 ## Linked List
 |  |
 | ------- |
@@ -171,6 +173,7 @@ For further you can take help from the  uploaded Code vault.
 | [0049-group-anagrams](https://github.com/rahulbh8077/DSA/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/rahulbh8077/DSA-Array/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/rahulbh8077/DSA-Array/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/rahulbh8077/DSA-Array/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/rahulbh8077/DSA/tree/master/0179-largest-number) |
 ## Trie
 |  |
